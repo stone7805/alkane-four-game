@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="烷烃侦探局图标">
+  <rect width="512" height="512" rx="112" fill="#167a70"/>
+  <circle cx="104" cy="116" r="22" fill="#f5d89d"/>
+  <circle cx="408" cy="116" r="22" fill="#f5d89d"/>
+  <circle cx="104" cy="396" r="22" fill="#f5d89d"/>
+  <circle cx="408" cy="396" r="22" fill="#f5d89d"/>
+  <path d="M124 128 186 184M388 128 326 184M124 384 186 328M388 384 326 328" stroke="#f5d89d" stroke-width="18" stroke-linecap="round"/>
+  <circle cx="256" cy="256" r="150" fill="#fffdfa"/>
+  <text x="256" y="320" text-anchor="middle" font-family="Arial,sans-serif" font-size="190" font-weight="800" fill="#115d56">C</text>
+</svg>
