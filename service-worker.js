@@ -1,7 +1,7 @@
 'use strict';
 // GitHub Pages 项目站点通常位于 /仓库名/；缓存仅清理本游戏在当前子路径的旧版本。
 var PREFIX='alkane-detective-'+self.location.pathname.replace(/[^a-z0-9]/gi,'-')+'-';
-var CACHE=PREFIX+'v2-13';
+var CACHE=PREFIX+'v2-14';
 var CORE=['./','./index.html','./manifest.webmanifest','./icon.svg','./icon-192.png','./icon-512.png','./apple-touch-icon.png'];
 
 self.addEventListener('install',function(event){
